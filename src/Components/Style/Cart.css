@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.containerCart{
+    position: relative;
+}
+.containerGrid{
+    background-color: rgb(235, 225, 225);
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    left: 38%;
+    top: 10px;
+    border: 1px solid black;
+}

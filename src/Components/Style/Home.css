@@ -1,0 +1,63 @@
+.containerHome{
+    position: relative;
+}
+.ipt {
+    width: 250px;
+    height: 20px;
+    top: -25px;
+    left: 990px;
+    position: relative;
+    margin-right: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    position: absolute;
+}
+
+.btnSearch {
+    position: absolute;
+    left: 1220px;
+    width: 26px;
+    height: 26px;
+    cursor: pointer;
+    top: 127px;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    background-color: transparent;
+    border: none;
+}
+
+.iconSearch {
+    width: 30px;
+    height: 30px;
+    left: 1px;
+    position: absolute;
+    top: -155px;
+}
+
+.iconCart {
+    color: black;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+    position: absolute;
+    top: 50px;
+    left: 1200px;
+    margin-left: 10px; 
+}
+
+.replace{
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    color: white;
+    background-color: red;
+    top: 32px;
+    left: 1195px;
+    border-radius: 15px;
+    font-size: 11px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
